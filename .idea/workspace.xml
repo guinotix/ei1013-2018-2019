@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d711ab03-26c9-4b16-a50a-acbc722c0c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practica1/practica1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica1/practica1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica1/practica1Test.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica10/EDEdge.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica10/EDGraph.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica10/EDListGraph.java" afterDir="false" />
@@ -30,13 +27,6 @@
       <change afterPath="$PROJECT_DIR$/src/practica10/ficheros/laberinto6.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica10/ficheros/laberinto6.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica10/practica10.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica2/practica2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica2/practica2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica2/practica2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica3/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica3/BancoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica3/Transferencia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practica3/practica3.pdf" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica4/EDDoubleLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica4/EDDoubleLinkedListTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/practica4/practica4.pdf" afterDir="false" />
@@ -92,7 +82,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/practica10/GraphTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
+            <state relative-caret-position="121">
               <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
             </state>
           </provider>
@@ -358,6 +348,28 @@
       <option name="presentableId" value="Default" />
       <updated>1560362414112</updated>
     </task>
+    <task id="LOCAL-00001" summary="practice session 1">
+      <created>1643026976849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643026976849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="practice session 2">
+      <created>1643027087879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643027087879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="practice session 3">
+      <created>1643027144078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643027144078</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -392,6 +404,15 @@
       <configuration name="GraphTest" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
@@ -408,7 +429,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286119" />
@@ -478,6 +499,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="practice session 1" />
+    <MESSAGE value="practice session 2" />
+    <MESSAGE value="practice session 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice session 3" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/practica3/BancoTest.java">
@@ -799,7 +826,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/practica10/GraphTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="121">
           <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
         </state>
       </provider>
